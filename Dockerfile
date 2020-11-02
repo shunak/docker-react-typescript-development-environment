@@ -1,4 +1,4 @@
 # base image
-FROM node:13.5.0-alpine3.11
+FROM node:15.0.1-alpine3.11
 WORKDIR /usr/src/app
 
